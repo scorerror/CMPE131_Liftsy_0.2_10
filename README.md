@@ -11,3 +11,4 @@ The package includes a fully working app.
 2. >New users can sign up for the app. 
 3. >Users can learn about Liftsy by pressing `About` on the home page. 
     
+Video demo of the app https://drive.google.com/open?id=1fNYexJcekaQpBTXqUSMizzKOSRD-d1NH
