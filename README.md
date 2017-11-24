@@ -2,7 +2,9 @@
 
 > CMPE 131 Software Implementation Part 3
 
-Running environment `node.js` using `bower` package management and `Boostrap` for handling the front end. 
+* Requires NodeJS and NPM 
+
+Running environment `node.js` using `bower` package management and `Boostrap` for handling the front end and `Firebase` to handle `authentication` and `database`. 
 
 The package includes a fully working app. 
 1. >The user can log in into an existing acount. 
